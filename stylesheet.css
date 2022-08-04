@@ -1,0 +1,42 @@
+body {
+    font-family: "Yu Gothic Medium", sans-serif;
+    font-size: 18px;
+    color: #a52a2a;
+}
+.contents {
+    max-width: 600px; margin: 200px auto 100px;
+    font-feature-settings: "palt";
+    letter-spacing: 0.2em;
+    line-height: 2;
+    text-align: justify;
+}
+.contents h1 {
+    color: #000000;
+}
+.contents-nopalt {
+    max-width: 600px; margin: 100px auto;
+    letter-spacing: 0.1em;
+    line-height: 2;
+}
+.contents-nopalt h1 {
+    color: #cccccc;
+}
+.contents-serif {
+    max-width: 600px; margin: 100px auto;
+    font-family: "游明朝体","Yu Mincho","Yumincho", serif;
+    font-feature-settings: "palt";
+    letter-spacing: 0.2em;
+    line-height: 2;
+    text-align: justify;
+}
+.contents-google {
+    max-width: 600px; margin: 100px auto;
+    font-family: 'BIZ UDPGothic', sans-serif;
+    font-feature-settings: "palt";
+    letter-spacing: 0.2em;
+    line-height: 2;
+    text-align: justify;
+}
+.contents p {
+    color: #0000ff;
+}
